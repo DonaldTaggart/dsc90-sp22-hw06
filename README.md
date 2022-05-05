@@ -39,3 +39,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ### Visualizations
 
 <iframe src='../snow_map.html' width=600 height=400 frameBorder=0></iframe>
+
+<iframe src='../galton_fig.html' width=800 height=600 frameBorder=0></iframe>
+
+<iframe src='../france_fig.html' width=800 height=600 frameBorder=0></iframe>
